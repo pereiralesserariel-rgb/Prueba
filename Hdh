@@ -1,7 +1,7 @@
 [
  {
         "name": "PruebaLesser",
-        "url": "http://tigoedge05.tech/hls/stream3.m3u8",
+        "url": "",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
         "type": "HLS",
         "drm_license_uri": ""
